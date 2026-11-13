@@ -1,0 +1,9 @@
+{
+  "judul": "SURAT IZIN TIDAK MASUK SEKOLAH",
+  "isi": [
+    "Kepala {nama_sekolah} memberikan izin kepada:",
+    {"tabel": [["Nama", "{nama}"], ["NISN", "{nisn}"], ["Kelas", "{kelas}"]]},
+    "untuk tidak mengikuti kegiatan belajar pada {tanggal_izin} karena {alasan}. Siswa yang bersangkutan wajib mengejar materi yang tertinggal.",
+    "Demikian surat izin ini dibuat untuk dipergunakan sebagaimana mestinya."
+  ]
+}

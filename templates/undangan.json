@@ -1,0 +1,10 @@
+{
+  "perihal": "Undangan {perihal}",
+  "isi": [
+    "Yth. Bapak/Ibu Orang Tua/Wali Siswa",
+    "Di tempat",
+    "Dengan hormat, kami mengundang Bapak/Ibu untuk hadir pada kegiatan yang akan dilaksanakan pada:",
+    {"tabel": [["Hari, tanggal", "{hari_tanggal}"], ["Waktu", "{waktu}"], ["Tempat", "{tempat}"], ["Acara", "{acara}"]]},
+    "Mengingat pentingnya acara tersebut, kami mengharapkan kehadiran Bapak/Ibu tepat waktu. Atas perhatiannya kami ucapkan terima kasih."
+  ]
+}

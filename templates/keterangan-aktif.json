@@ -1,0 +1,9 @@
+{
+  "judul": "SURAT KETERANGAN AKTIF BELAJAR",
+  "isi": [
+    "Yang bertanda tangan di bawah ini, Kepala {nama_sekolah}, menerangkan bahwa:",
+    {"tabel": [["Nama", "{nama}"], ["NISN", "{nisn}"], ["Tempat, tanggal lahir", "{ttl}"], ["Kelas", "{kelas}"], ["Nama orang tua", "{ortu}"]]},
+    "adalah benar siswa {nama_sekolah} yang masih aktif mengikuti kegiatan belajar pada tahun ajaran {tahun_ajaran}.",
+    "Demikian surat keterangan ini dibuat untuk dipergunakan sebagaimana mestinya."
+  ]
+}
