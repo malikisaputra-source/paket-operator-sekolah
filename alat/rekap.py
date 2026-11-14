@@ -1,4 +1,4 @@
-# kredit-maliki: Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id. Lisensi MIT + wajib atribusi (lihat LICENSE).
+# kredit-maliki: Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id. Lisensi Nonkomersial Maliki Studio: wajib kredit, dilarang dijual (lihat LICENSE).
 """Rekap absensi (H/S/I/A per siswa, % hadir) atau nilai (rata-rata, peringkat, di bawah KKM) ke .xlsx.
 Pakai:
   python3 alat/rekap.py absensi contoh/absensi-7a-oktober.csv

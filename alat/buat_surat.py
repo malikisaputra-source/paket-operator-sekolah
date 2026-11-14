@@ -1,4 +1,4 @@
-# kredit-maliki: Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id. Lisensi MIT + wajib atribusi (lihat LICENSE).
+# kredit-maliki: Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id. Lisensi Nonkomersial Maliki Studio: wajib kredit, dilarang dijual (lihat LICENSE).
 """Buat surat .docx (keterangan-aktif | izin | undangan) dari templates/<jenis>.json + contoh/sekolah.json.
 Pakai:
   python3 alat/buat_surat.py keterangan-aktif --nisn 0101234561 --data hasil/siswa-rapi.xlsx

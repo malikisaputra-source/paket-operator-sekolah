@@ -50,7 +50,7 @@ Surat: font & margin di `buat()` (`alat/buat_surat.py`), kop di `kop()`. Halaman
 - ui-ux-pro-max — https://github.com/nextlevelbuilder/ui-ux-pro-max-skill (MIT menurut GitHub API, dicek 6 Nov 2026)
 
 ## Lisensi
-MIT + syarat atribusi (lihat `LICENSE`).
+Lisensi Nonkomersial Maliki Studio (kredit wajib, dilarang dijual) (lihat `LICENSE`).
 
 Dibuat oleh Maliki Studio — malikisaputra.biz.id, follow TikTok/IG @malikisaputra
 

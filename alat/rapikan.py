@@ -1,4 +1,4 @@
-# kredit-maliki: Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id. Lisensi MIT + wajib atribusi (lihat LICENSE).
+# kredit-maliki: Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id. Lisensi Nonkomersial Maliki Studio: wajib kredit, dilarang dijual (lihat LICENSE).
 """Rapikan data siswa dari CSV/XLSX: nama Title Case, JK L/P, tanggal YYYY-MM-DD,
 kelas seragam, HP 08xx, NISN 10 digit, cari duplikat. Hasil: hasil/siswa-rapi.xlsx + laporan masalah.
 Pakai: python3 alat/rapikan.py contoh/siswa-mentah.csv
